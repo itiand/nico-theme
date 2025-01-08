@@ -1,3 +1,4 @@
-<footer>
-    <h2>From the footer file</h2>
-</footer>
+<?php wp_footer();?>
+  <span>From the footer file</span>
+  </body>
+</html>

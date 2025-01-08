@@ -1,5 +1,7 @@
-
-<header>
-    <h1><?php bloginfo('name');?></h1>
-    <h2>From the header file</h2>
-</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <?php wp_head();?>
+</head>
+<body>
+    <header>From the header file</header>
