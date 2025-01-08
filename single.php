@@ -1,1 +1,1 @@
-<h1>Single</h1>
+<h1>From the single file</h1>
