@@ -4,4 +4,11 @@
     <?php wp_head();?>
 </head>
 <body>
-    <header>From the header file</header>
+    <header>
+      <div class="logo">
+        
+      </div>
+      <div class="menu-icon">
+
+      </div>
+    </header>
